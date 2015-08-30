@@ -1,5 +1,7 @@
-require "SpanishDict/version"
+require "spanishdict/version"
+require "httparty"
+require "nokogiri"
+require "spanishdict/translator"
 
 module SpanishDict
-  # Your code goes here...
 end

@@ -20,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+* Translate from EN --> ES: `SpanishDict.translate_to_es("hello")
+* Translate from ES --> EN: `SpanishDict.translate_to_en("hola")
 
 ## Development
 
@@ -35,4 +36,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/maclov
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
